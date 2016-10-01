@@ -2,12 +2,12 @@ package sanj;
 
 import java.util.List;
 /**
- * 线--实体类
+ * 脧脽--脢碌脤氓脌脿
  * @author ljb
  *
  */
 public class Line {
-	private List<String> spots;
+	private List<String> spots; 
 
 	public List<String> getSpots() {
 		return spots;
